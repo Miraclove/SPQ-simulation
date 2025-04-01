@@ -123,20 +123,4 @@ Use the included Jupyter notebook (`visual.ipynb`) to analyze and plot the data:
    ```
 3. **Run** the cells to generate plots and statistics from the CSV files.
 
----
 
-## License
-
-*(Optional)* Include license information for your project here. For example:
-
-```
-MIT License
-[...license text...]
-```
-
----
-
-## Acknowledgments
-
-- Special thanks to any contributors or mentors who helped develop this simulation.  
-- References to academic papers or online resources that inspired the project.  
